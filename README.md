@@ -8,10 +8,14 @@ Description
 
 Taken the font_sizer code from QMI TAKU and added support for linux type fonts.
 
-Description
-------------
+How to use
+-----------
 
-To install
+<Alt-=> Press Alt and equal (+) at the same time to increase font size
+<Alt--> Press Alt and minus (-) at the same time to decrease font size
+
+Installation
+------------
 
     git clone https://github.com/stephenmm/fontisizer.vim.git
     mkdir -p ~/.vim/plugin
